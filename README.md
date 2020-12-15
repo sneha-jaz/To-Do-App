@@ -4,6 +4,9 @@
 Features:
 
  ⩥ Create a task
+ 
  ⩥ Delete a task
+ 
  ⩥ Mark as completed
+ 
  ⩥ Data saved through local storage 📦 
